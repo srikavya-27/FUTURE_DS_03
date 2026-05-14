@@ -1,0 +1,25 @@
+
+TASK 3: MARKETING FUNNEL & CONVERSION PERFORMANCE ANALYSIS
+
+KPI SUMMARY:
+Total Leads:16680
+Total Qualified Leads:7310
+Total Proposals:2699
+Total Customers:1120
+Total Spend:811000
+Overall Lead to Customer Conversion %:6.71
+Overall Cost per Customer:724.11
+
+KEY INSIGHTS:
+1.Best conversion channel:Email
+2.Lowest conversion channel:Facebook Ads
+3.Most expensive channel:Facebook Ads
+4.Cheapest channel:Organic Search
+5.Largest drop-off occurs where conversion weakens between funnel stages.
+
+RECOMMENDATIONS:
+1.Focus more budget on high-converting channels.
+2.Improve follow-up process for low-converting channels.
+3.Reduce drop-offs between qualified leads and proposals.
+4.Review campaign spend for channels with high cost per customer.
+5.Optimize funnel stages with weaker conversion percentages.
